@@ -1,0 +1,3 @@
+/Users/ptumulty/Developer/VS_Code/C++/classEleven/build/CMakeFiles/rebuild_cache.dir
+/Users/ptumulty/Developer/VS_Code/C++/classEleven/build/CMakeFiles/edit_cache.dir
+/Users/ptumulty/Developer/VS_Code/C++/classEleven/build/CMakeFiles/buildTest.dir

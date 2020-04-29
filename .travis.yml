@@ -1,0 +1,7 @@
+dist: trusty
+os: osx
+language: cpp
+
+script:
+  - cmake --build .
+  - ./buildTest
